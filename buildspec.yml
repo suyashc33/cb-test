@@ -6,4 +6,4 @@ phases:
       - echo "helloworld"
   build:
     commands:
-      - echo "helloworld from main"
+      - echo "helloworld from dev brach"
